@@ -32,3 +32,11 @@ Anon/
 │ ├── css/
 │ ├── images/
 │ ├── js/
+
+🎯 Future Enhancements
+
+Add backend integration (cart, login, payments)
+Implement product search & filtering logic
+Connect to a database for dynamic product data
+Add checkout and order management system
+
